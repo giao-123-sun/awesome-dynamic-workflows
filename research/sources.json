@@ -1,0 +1,18 @@
+[
+  {"name": "Microsoft Agent Framework","url": "https://github.com/microsoft/agent-framework","stars": 11252,"license": "MIT"},
+  {"name": "Solace Agent Mesh","url": "https://github.com/SolaceLabs/solace-agent-mesh","stars": 4867,"license": "Apache-2.0"},
+  {"name": "Claude Code Workflow","url": "https://github.com/catlog22/Claude-Code-Workflow","stars": 2104,"license": "MIT"},
+  {"name": "Orra","url": "https://github.com/orra-dev/orra","stars": 243,"license": "MPL-2.0"},
+  {"name": "CraftGen","url": "https://github.com/craftgen/craftgen","stars": 314,"license": "AGPL-3.0"},
+  {"name": "LangGraph","url": "https://github.com/langchain-ai/langgraph","stars": 5000,"license": "MIT"},
+  {"name": "CrewAI","url": "https://github.com/crewAIInc/crewAI","stars": 25000,"license": "MIT"},
+  {"name": "AutoGen","url": "https://github.com/microsoft/autogen","stars": 35000,"license": "MIT"},
+  {"name": "Temporal","url": "https://github.com/temporalio/temporal","stars": 13000,"license": "MIT"},
+  {"name": "Prefect","url": "https://github.com/PrefectHQ/prefect","stars": 18000,"license": "Apache-2.0"},
+  {"name": "n8n","url": "https://github.com/n8n-io/n8n","stars": 55000,"license": "Sustainable Use"},
+  {"name": "Open Dynamic Workflows","url": "https://github.com/Suraj1235/open-dynamic-workflows","stars": 3,"license": "MIT"},
+  {"name": "IBM awesome-agentic-workflow-optimization","url": "https://github.com/IBM/awesome-agentic-workflow-optimization","stars": 62,"license": "Apache-2.0"},
+  {"name": "GATES","url": "https://github.com/yashenCS/GATES","stars": 26,"license": "Apache-2.0"},
+  {"name": "Junjo","url": "https://github.com/mdrideout/junjo","stars": 20,"license": "Apache-2.0"},
+  {"name": "Branch-Thinking MCP","url": "https://github.com/ssdeanx/branch-thinking-mcp","stars": 15,"license": "MIT"}
+]
